@@ -12,7 +12,7 @@
 
    Name : Aadil 808
    Youtube : https://www.youtube.com/channel/UC9FB_9r7VauIM87lIJfKHjA
-   Github : https://github.com/TechnicalMujeeb/Termux-Lazyscript.git
+   Github : 
    whatsapp : Termux cyber   
 
 [+] Installation :-
@@ -20,7 +20,7 @@
     apt update && apt upgrade
     apt install git   
     apt install python2
-    git clone https://github.com/Aadil808/Lazyscript/import
+    git clone https://github.com/Aadil808/Lazyscript
     cd Termux-Lazyscript
     chmod +x *
     sh setup.sh
